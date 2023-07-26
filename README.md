@@ -1,1 +1,1 @@
-# odin_landing_page
+A landing page website created for odin project``

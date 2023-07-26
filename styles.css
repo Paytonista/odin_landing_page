@@ -1,0 +1,23 @@
+.header-container {
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.header-container .header-logo {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    gap: 20px;
+}
+
+.header-container .header-link {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+    gap: 100px;
+}
