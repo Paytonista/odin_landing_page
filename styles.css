@@ -38,7 +38,7 @@ body {
     font-family: 'Handjet';
 }
 .test {
-    background-image: url(resources/img/background.gif);
+    background-image: url(/resources/img/background.gif);
     background-repeat: no-repeat;
     background-size: cover;
     justify-content: center;
